@@ -4,6 +4,10 @@ This project is a responsive and interactive webpage designed to showcase a book
 
 ---
 
+Live Preview: [click here](https://ozioma45.github.io/King-s_Pen_Website/)
+
+---
+
 ## Table of Contents
 
 - [Project Description](#project-description)

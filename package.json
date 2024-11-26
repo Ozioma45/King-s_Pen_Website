@@ -1,0 +1,14 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "This is a folder where i save my main tutorial projects\r These are long tutorial usually hours that really taught me more about bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
